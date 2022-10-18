@@ -5,4 +5,4 @@ The goal of this competition is to assess the language proficiency of 8th-12th g
 
 Your work will help ELLs receive more accurate feedback on their language development and expedite the grading cycle for teachers. These outcomes could enable ELLs to receive more appropriate learning tasks that will help them improve their English language proficiency.
 
-See: ![](https://www.kaggle.com/competitions/feedback-prize-english-language-learning/overview)
+![See:](https://www.kaggle.com/competitions/feedback-prize-english-language-learning/overview)
